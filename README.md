@@ -1,6 +1,7 @@
 # Iris-Predictor-Model
 
 #### Predicting class of Iris Flower using machine learning
+<img src="https://github.com/GKPSingh/Iris-Predictor-Model/blob/main/Images/iris-flower-garden.jpg" width="900" height="400">
 
 ##### Introduction
 This notebook is dedicated to the prediction of class of Iris flower based on the different parameters: 
